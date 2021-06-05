@@ -5,8 +5,6 @@ public class Hellogit {
 		  System.out.println("Hellogit");
                  System.out.println("你好啊");
                  System.out.println("你好啊");
-                 System.out.println("你好啊");
-                 System.out.println("你好啊");
-                 System.out.println("你好啊");
+
 	}
 }
